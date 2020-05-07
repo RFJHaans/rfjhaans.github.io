@@ -1,8 +1,8 @@
 ---
-layout: archive
-title: "Curvilinear relationships"
 permalink: /ushapes/
+title: "Curvilinear relationships"
 author_profile: true
+
 ---
 
-Test. 
+Welcome to my personal website. 
