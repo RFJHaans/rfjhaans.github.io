@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /ushapes/
 title: "U-shapes"
 excerpt: "Theorizing and testing curvilinear relationships"
 author_profile: true
