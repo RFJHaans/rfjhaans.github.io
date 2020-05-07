@@ -3,20 +3,18 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "U-shapes"
+    url: /ushapes/
         
-  - title: "Blog Posts"
+  - title: "Topic Modeling"
     url: /year-archive/
+
+  - title: "OMT"
+    url: /omt/
     
   - title: "CV"
     url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+ 
