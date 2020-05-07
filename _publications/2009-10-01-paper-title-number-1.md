@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "What's the value of being different when everyone is? The effects of distinctiveness on performance in homogeneous versus heterogeneous categories"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/value-of-being-different
+excerpt: 'Is moderate distinctiveness optimal for performance? Answers to this question have been mixed, with both inverted U and U‐shaped relationships being argued for and found in the literature. I show how nearly identical mechanisms driving the distinctiveness‐performance relationship can yield both U‐shaped and inverted U‐shaped effects due to differences in relative strength, rather than their countervailing nature. Incorporating distinctiveness heterogeneity, I theorize a U‐shaped effect in homogeneous categories that flattens into an inverted U in heterogeneous categories. Results combining a topic model of 69,188 organizational websites with survey data from 2,279 participants in the Dutch creative industries show a U‐shaped effect in homogeneous categories, flattening and then disappearing in more heterogeneous categories. How distinctiveness affects performance thus depends entirely on how distinct others are.'
+date: 2019-01-01
+venue: 'Strategic Management Journal'
+paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1002/smj.2978'
+citation: 'Haans, Richard F.J. (2019), &quot;What’s the value of being different when everyone is? The effects of distinctiveness on performance in homogeneous versus heterogeneous categories.&quot <i>Strategic Management Journal</i>, 40(1): 3–27.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
