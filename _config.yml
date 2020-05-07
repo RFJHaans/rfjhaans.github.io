@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Dr. Richard F.J. Haans"
 title_separator          : "-"
-name                     : &name "Dr. Richard F.J. Haans"
+name                     : &name "Richard Haans"
 description              : &description "Assistant Professor in Strategic Management & Entrepreneurship, Rotterdam School of Management"
 url                      : https://rfjhaans.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Dr. Richard F.J. Haans"
   avatar           : "profile.png"
-  bio              : "Test"
-  location         : 
-  employer         :
+  bio              : "Assistant Professor in Strategic Management & Entrepreneurship, Rotterdam School of Management"
+  location         : "Rotterdam, the Netherlands"
+  employer         : "Erasmus University Rotterdam"
   pubmed           : 
   googlescholar    : "https://scholar.google.nl/citations?user=aAwPGeMAAAAJ"
   email            :
