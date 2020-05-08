@@ -9,51 +9,71 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education and professional experience
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Current: Assistant Professor in Strategic Management & Entrepreneurship, Erasmus University Rotterdam
+* 2017: Ph.D in Management, Tilburg University
+* 2014: Research Master in Business (<i>cum laude</i>), Tilburg University
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Paper presentations
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+* 2018: What's the value of being different when everyone is? The effects of 
+distinctiveness on performance in homogeneous versus heterogeneous categories. Alberta Institutions Conference (Alberta)
+* 2018: Does foreign language liberate or limit creativity? Academy of Management Annual Meeting (Chicago)
+* 2018: A trinity of time, community, and industry: Achieving optimal distinctiveness in craft brewing. Studying Crafts and Craftsmanship in Organizations (Lancaster)
+* 2017: When everyone is different, no one is? Effects of distinctiveness on performance 
+in homogeneous and heterogeneous creative industries. Academy of Management Annual Meeting (Atlanta)
+* 2017: When everyone is different, no one is? Effects of distinctiveness on performance 
+in homogeneous and heterogeneous creative industries. SAMS Creative Industries Conference (Edinburgh)
+* 2016: Diversity’s contingent effects on innovation and opportunity recognition: The 
+role of self-efficacy. Academy of Management Annual Meeting (Anaheim)
+* 2016: Topic founding, topic recombination, and top affiliation’s role in achieving impact in strategy. Academy of Management Annual Meeting (Anaheim)
+* 2016: How optimal is distinctiveness? A Topic model of entrepreneurial identity. University of Edinburgh Creative Industries Conference (Edinburgh)
+* 2016: Collaborative partner diversity, Innovation, opportunity Recognition, and the moderating role of entrepreneurial self-efficacy. Strategic Management Society Special Conference (Rome)
+* 2015: Does creativity aid or curb job creation? Comparing entrepreneurs in creative and other industries. Academy of Management Annual Meeting (Vancouver)
+
+Awards and other recognition
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2020: My 2019 work on optimal distinctiveness in <i>SMJ</i> was among the top 10% most-read articles in 2018-2019
+* 2020: My 2019 work on topic modeling <i>AMA</i> was among the second most-read article in 2019
+* 2019: Voted best Professor of the Trimester for the course Strategic Management in the Business Administration BSc programme
+* 2016: Entrepreneurship Division Best Reviewer Award (Academy of Management Annual Meeting)
+* 2016: OMT Division Doctoral Consortium participant (Academy of Management 
+Annual Meeting)
+* 2016:	Doctoral Consortium participant (Strategic Management Society Special Conference, Rome)
+* 2016: Royal Netherlands Academy of Arts & Sciences Honours Programme
+
+
+Recent teaching
+======
+* 2018 – Current:	Quantitative Research in Strategic Management & Strategic Entrepreneurship (MSc)
+* 2017 – Current:	Strategic Management (BSc)
+* 2018 – 2020:	Thesis Coordinator for the MSc programs Strategic Management and Strategic Entrepreneurship
+* 2018 – 2020:	Research Clinic Strategic Entrepreneurship & Strategic Management (MSc)
+* 2018 – 2019:	International Project (Parttime MSc)
+* 2017 – 2018:	Research Methods Strategic Management and Strategic Entrepreneurship (MSc)
+* 2017 – 2018:	New Business Development (MSc)
+* 2017 – 2018:	Strategic Entrepreneurship (MPhil)
+
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2019 – Current:	Data Analytics Chair for the Organization and Management Theory (OMT) Division of the Academy of Management
+* 2019 – Current:	Member of the Advisory Board, Erasmus Data Service Centre
+* 2017 – Current:	OMT Membership Group Ambassador 
+* 2020:	Co-organizer of PDW Advances in Topic Modeling: Curating Corpora, Using Structured Models, and Theorizing with Visuals at Academy of Management Annual Meeting (Vancouver)
+* 2019:	Panelist for the inaugural Interpretive Data Science (IDEaS) Workshop 
+(University of Alberta)
+* 2018: Co-organizer of PDW Topic Modeling: A Hand-On Approach to Analysis and Theory Building at Academy of Management Annual Meeting (Chicago)
+* 2018: Panelist for PDW Optimal Distinctiveness: Past Approaches, Theoretical Integration and Future Research Agenda at Academy of Management Annual Meeting (Chicago)
+* 2017: Co-organizer of PDW Topic Modeling in Quant and Qual Research: A Hands-On Approach at Academy of Management Annual Meeting (Atlanta)
+* 2015 – 2018:Social Media Editor for Cross Cultural & Strategic Management
+* Ad-hoc Reviewer for (in alphabetical order), the British Journal of Management, European Management Review, Journal of Business Venturing, Journal of International Business Studies, Journal of Management, Journal of Management Studies, Journal of Strategy and Management, Research in the Sociology of Organizations, Social Forces, Strategic Management Journal.
+* Reviewer for Academy of Management Annual Meeting (ENT division, 2015, 2016, 2017; BPS division, 2016, 2019, 2020; OMT division, 2017, 2018, 2019, 2020), the Strategic Management Society Annual Meeting (2020) and the Strategic Management Society Special Conference (2018).
+
