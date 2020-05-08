@@ -18,10 +18,15 @@ Education and professional experience
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* <b>Haans, Richard F.J.</b> (2019), &quot;What’s the value of being different when everyone is? The effects of distinctiveness on performance in homogeneous versus heterogeneous categories.&quot; <i>Strategic Management Journal</i>, 40(1): 3–27.
+* Hannigan, T., <b>Haans, R.F.J.</b>, Vakili, K., Tchalian, H., Glaser V.L., Wang, M., Kaplan, S., and Jennings, P.D. &quot;Topic models in management research: Rendering new theory from textual data.&quot; <i>Academy of Management Annals </i> 13(2): 586-632.
+* <b>Haans, R.F.J.</b> and Van Witteloostuijn, A. 2019. &quot;Regional stickiness of novel ideas in the 
+scholarly International Business community.&quot; <i>Cross Cultural & Strategic Management</i> 26(2): 145-165.
+* <b>Haans, R.F.J.</b> and Van Witteloostuijn, A. 2018. &quot;Expected job creation across the cultural 
+industries: A sectoral division and its implications for cultural policy.&quot; <i>International Journal of Cultural Policy</i> 24(1): 45-67.
+* <b>Haans, R.F.J.</b>, Pieters, C., and He, Z.L. 2016. &quot;Thinking about U: Theorizing and testing U- and 
+inverted U-shaped relationships in strategy research.&quot; <i>Strategic Management Journal</i> 37(7): 1177–1195.
+
 Paper presentations
 ======
 * 2018: What's the value of being different when everyone is? The effects of 
