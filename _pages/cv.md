@@ -9,15 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education and professional experience
-======
+### Education and professional experience
 * Current: Assistant Professor in Strategic Management & Entrepreneurship, Erasmus University Rotterdam
 * 2017: Ph.D in Management, Tilburg University
 * 2014: Research Master in Business, Tilburg University
 * 2012: BSc in International Business Administration, Tilburg University
 
-Publications
-======
+### Publications
 * <b>Haans, Richard F.J.</b> (2019), &quot;What’s the value of being different when everyone is? The effects of distinctiveness on performance in homogeneous versus heterogeneous categories.&quot; <i>Strategic Management Journal</i>, 40(1): 3–27.
 * Hannigan, T., <b>Haans, R.F.J.</b>, Vakili, K., Tchalian, H., Glaser V.L., Wang, M., Kaplan, S., and Jennings, P.D. &quot;Topic models in management research: Rendering new theory from textual data.&quot; <i>Academy of Management Annals </i> 13(2): 586-632.
 * <b>Haans, R.F.J.</b> and Van Witteloostuijn, A. 2019. &quot;Regional stickiness of novel ideas in the 
@@ -27,8 +25,7 @@ industries: A sectoral division and its implications for cultural policy.&quot; 
 * <b>Haans, R.F.J.</b>, Pieters, C., and He, Z.L. 2016. &quot;Thinking about U: Theorizing and testing U- and 
 inverted U-shaped relationships in strategy research.&quot; <i>Strategic Management Journal</i> 37(7): 1177–1195.
 
-Paper presentations
-======
+### Paper presentations
 * 2018: What's the value of being different when everyone is? The effects of 
 distinctiveness on performance in homogeneous versus heterogeneous categories. Alberta Institutions Conference (Alberta)
 * 2018: Does foreign language liberate or limit creativity? Academy of Management Annual Meeting (Chicago)
@@ -44,8 +41,7 @@ role of self-efficacy. Academy of Management Annual Meeting (Anaheim)
 * 2016: Collaborative partner diversity, Innovation, opportunity Recognition, and the moderating role of entrepreneurial self-efficacy. Strategic Management Society Special Conference (Rome)
 * 2015: Does creativity aid or curb job creation? Comparing entrepreneurs in creative and other industries. Academy of Management Annual Meeting (Vancouver)
 
-Awards and other recognition
-======
+### Awards and other recognition
 * 2020: My 2019 work on optimal distinctiveness in <i>SMJ</i> was among the top 10% most-read articles in 2018-2019
 * 2020: My 2019 work on topic modeling <i>AMA</i> was among the second most-read article in 2019
 * 2019: Voted best Professor of the Trimester for the course Strategic Management in the Business Administration BSc programme
@@ -56,8 +52,7 @@ Annual Meeting)
 * 2016: Royal Netherlands Academy of Arts & Sciences Honours Programme
 
 
-Recent teaching
-======
+### Recent teaching
 * 2018 – Current:	Quantitative Research in Strategic Management & Strategic Entrepreneurship (MSc)
 * 2017 – Current:	Strategic Management (BSc)
 * 2018 – 2020:	Thesis Coordinator for the MSc programs Strategic Management and Strategic Entrepreneurship
@@ -68,8 +63,7 @@ Recent teaching
 * 2017 – 2018:	Strategic Entrepreneurship (MPhil)
 
   
-Service and leadership
-======
+### Service and leadership
 * 2019 – Current:	Data Analytics Chair for the Organization and Management Theory (OMT) Division of the Academy of Management
 * 2019 – Current:	Member of the Advisory Board, Erasmus Data Service Centre
 * 2017 – Current:	OMT Membership Group Ambassador 
