@@ -13,8 +13,9 @@ Education and professional experience
 ======
 * Current: Assistant Professor in Strategic Management & Entrepreneurship, Erasmus University Rotterdam
 * 2017: Ph.D in Management, Tilburg University
-* 2014: Research Master in Business (<i>cum laude</i>), Tilburg University
-  
+* 2014: Research Master in Business, Tilburg University
+* 2012: BSc in International Business Administration, Tilburg University
+
 Publications
 ======
   <ul>{% for post in site.publications %}
