@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "OMT Data Analytics"
-permalink: /OMT/
+permalink: /omt/
 author_profile: true
 ---
 
