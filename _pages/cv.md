@@ -16,7 +16,8 @@ redirect_from:
 * <b>2012:</b> BSc in International Business Administration, Tilburg University
 
 ### Publications
-* <b>Haans, Richard F.J.</b> (2019), &quot;What’s the value of being different when everyone is? The effects of distinctiveness on performance in homogeneous versus heterogeneous categories.&quot; <i>Strategic Management Journal</i>, 40(1): 3–27.
+* Kaufmann, W. and <b>Haans, R.F.J.</b> (2020). Understanding the Meaning of Concepts Across Domains Through Collocation Analysis. <i>Journal of Public Administration Research and Theory</i>: 1-16.
+* <b>Haans, R.F.J.</b> (2019), &quot;What’s the value of being different when everyone is? The effects of distinctiveness on performance in homogeneous versus heterogeneous categories.&quot; <i>Strategic Management Journal</i>, 40(1): 3–27.
 * Hannigan, T., <b>Haans, R.F.J.</b>, Vakili, K., Tchalian, H., Glaser V.L., Wang, M., Kaplan, S., and Jennings, P.D. &quot;Topic models in management research: Rendering new theory from textual data.&quot; <i>Academy of Management Annals </i> 13(2): 586-632.
 * <b>Haans, R.F.J.</b> and Van Witteloostuijn, A. 2019. &quot;Regional stickiness of novel ideas in the 
 scholarly International Business community.&quot; <i>Cross Cultural & Strategic Management</i> 26(2): 145-165.
