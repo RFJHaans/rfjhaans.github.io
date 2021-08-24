@@ -44,7 +44,7 @@ role of self-efficacy. Academy of Management Annual Meeting (Anaheim)
 
 ### Awards and other recognition
 * <b>2020:</b> I was awarded the <i>ERIM Award for Outstanding Performance by a Young Researcher</i> for delivering extremely good research in the two years prior to receiving the award, while having obtained my PhD degree no more than five years prior (more info here: https://www.erim.eur.nl/index.php?id=10026). 
-* * <b>2020:</b> I received the "I wish I had written that paper"-award for my work on optimal distinctiveness from the department of Strategic Management and Entrepreneurship at RSM.
+* <b>2020:</b> I received the <i>"I wish I had written that paper"-award</i> for my work on optimal distinctiveness from the department of Strategic Management and Entrepreneurship at RSM.
 * <b>2020:</b> My 2019 work on optimal distinctiveness in <i>SMJ</i> was among the top 10% most-read articles in 2018-2019
 * <b>2020:</b> My 2019 work on topic modeling <i>AMA</i> was among the second most-read article in 2019
 * <b>2019:</b> Voted best Professor of the Trimester for the course Strategic Management in the Business Administration BSc programme
