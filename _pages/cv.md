@@ -43,6 +43,8 @@ role of self-efficacy. Academy of Management Annual Meeting (Anaheim)
 * <b>2015:</b> Does creativity aid or curb job creation? Comparing entrepreneurs in creative and other industries. Academy of Management Annual Meeting (Vancouver)
 
 ### Awards and other recognition
+* <b>2020:</b> I was awarded the <i>ERIM Award for Outstanding Performance by a Young Researcher</i> for delivering extremely good research in the two years prior to receiving the award, while having obtained my PhD degree no more than five years prior (more info here: https://www.erim.eur.nl/index.php?id=10026). 
+* * <b>2020:</b> I received the "I wish I had written that paper"-award for my work on optimal distinctiveness from the department of Strategic Management and Entrepreneurship at RSM.
 * <b>2020:</b> My 2019 work on optimal distinctiveness in <i>SMJ</i> was among the top 10% most-read articles in 2018-2019
 * <b>2020:</b> My 2019 work on topic modeling <i>AMA</i> was among the second most-read article in 2019
 * <b>2019:</b> Voted best Professor of the Trimester for the course Strategic Management in the Business Administration BSc programme
@@ -74,6 +76,6 @@ Annual Meeting)
 * <b>2018:</b> Panelist for PDW Optimal Distinctiveness: Past Approaches, Theoretical Integration and Future Research Agenda at Academy of Management Annual Meeting (Chicago)
 * <b>2017:</b> Co-organizer of PDW Topic Modeling in Quant and Qual Research: A Hands-On Approach at Academy of Management Annual Meeting (Atlanta)
 * <b>2015 – 2018:</b> Social Media Editor for Cross Cultural & Strategic Management
-* Ad-hoc Reviewer for (in alphabetical order), Administrative Science Quarterly, the British Journal of Management, European Management Review, Journal of Business Venturing, Journal of International Business Studies, Journal of Management, Journal of Management Studies, Journal of Strategy and Management, Organization Science, Research in the Sociology of Organizations, Social Forces, Strategic Organization, Strategy Science.
+* Ad-hoc Reviewer for (in alphabetical order), Administrative Science Quarterly, the British Journal of Management, European Management Review, Journal of Business Venturing, Journal of International Business Studies, Journal of Management, Journal of Management Studies, Journal of Strategy and Management, Organization Science, Research in the Sociology of Organizations, Social Forces, Strategic Organization, Strategic Entrepreneurship Journal, Strategy Science.
 * Reviewer for Academy of Management Annual Meeting (ENT division, 2015, 2016, 2017; BPS division, 2016, 2019, 2020; OMT division, 2017, 2018, 2019, 2020), the Strategic Management Society Annual Meeting (2020) and the Strategic Management Society Special Conference (2018).
 
