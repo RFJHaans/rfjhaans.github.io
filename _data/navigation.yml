@@ -2,15 +2,6 @@
 main:
   - title: "Publications"
     url: /publications/
-
-  - title: "U-shapes"
-    url: /ushapes/
-        
-  - title: "Topic Modeling"
-    url: /topicmodeling/
-
-  - title: "OMT"
-    url: /omt/
     
   - title: "CV"
     url: /cv/
