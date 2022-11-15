@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ### Education and professional experience
-* <b>Current:</b> Assistant Professor in Strategic Management & Entrepreneurship, Erasmus University Rotterdam
+* <b>Current:</b> Associate Professor in Strategic Management & Entrepreneurship, Erasmus University Rotterdam
 * <b>2017:</b> Ph.D in Management, Tilburg University
 * <b>2014:</b> Research Master in Business, Tilburg University
 * <b>2012:</b> BSc in International Business Administration, Tilburg University
