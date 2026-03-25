@@ -11,7 +11,7 @@ redirect_from:
 
 ### Education and professional experience
 * <b>Current:</b> Director of Full-Time Doctoral Education, Erasmus Research Institute of Management
-* * <b>Current:</b> Associate Professor in Strategic Management & Entrepreneurship, Erasmus University Rotterdam
+* <b>Current:</b> Associate Professor in Strategic Management & Entrepreneurship, Erasmus University Rotterdam
 * <b>2017:</b> Ph.D in Management, Tilburg University
 * <b>2014:</b> Research Master in Business, Tilburg University
 * <b>2012:</b> BSc in International Business Administration, Tilburg University
@@ -55,5 +55,4 @@ Crafting Your Introduction (PhD; 2025 – now);    Navigating the Review Process
 * <b>2019 – 2025:</b> Data Analytics Chair for the Organization and Management Theory (OMT) Division of the Academy of Management
 * <b>2019 – Current:</b> Member of the Advisory Board, Erasmus Data Service Centre
 * Ad-hoc Reviewer for (in alphabetical order), Administrative Science Quarterly, British Journal of Management, European Management Review, Journal of Business Venturing, Journal of International Business Studies, Journal of Management, Journal of Management Studies, Journal of Strategy and Management, Organization Science, Organization Studies, Research in the Sociology of Organizations, Social Forces, Strategic Organization, and Strategy Science.
-* Reviewer for the Research Methods Paper Prize of the Strategic Management 
-	Society Annual Meeting (2022 - Current)
+* Reviewer for the Research Methods Paper Prize of the Strategic Management Society Annual Meeting (2022 - Current)
